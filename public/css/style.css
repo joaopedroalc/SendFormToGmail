@@ -1,0 +1,13 @@
+.form{
+  max-width: 70vw;
+  margin: 0 auto;
+  background-color: #000;
+  color:#fff;
+}
+
+.contact-form{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

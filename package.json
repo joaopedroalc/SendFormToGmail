@@ -1,0 +1,15 @@
+{
+  "name": "gmailwithnodeonsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15"
+  }
+}
